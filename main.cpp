@@ -1,2 +1,2 @@
-Mainfunc2 test();
+Mainfunc2 test()
 void test1();

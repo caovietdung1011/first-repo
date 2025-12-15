@@ -1,1 +1,2 @@
 this is n2.txt
+this is new n2.txt
